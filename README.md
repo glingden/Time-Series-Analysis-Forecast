@@ -1,1 +1,1 @@
-In this repo,  the projects releated to Time-Series Data can be found.
+In this repo, the collection of time series analysis and forecasting projects  done my me can be found.
